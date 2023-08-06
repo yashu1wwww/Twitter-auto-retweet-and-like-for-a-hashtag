@@ -27,7 +27,7 @@ password.send_keys("twitter123@#") #replace with your twitter password
 password.send_keys(Keys.ENTER)
 time.sleep(6)
 input_field = driver.find_element_by_xpath('//input[@data-testid="SearchBox_Search_Input"]')
-input_field.send_keys('#kohli') #replace with hastag which you needed
+input_field.send_keys('#kohli') #replace with hashtag which you needed
 input_field.send_keys(Keys.ENTER)
 
 # Wait for the search results to load
