@@ -7,9 +7,6 @@ Note: Use accounts that do not have two-factor authentication.
 
 Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter rl.py or double-click on the rl.py file.
 
-Watch the Twitter unlimited  Auto Retweet & Likes for a hashtag
-
-https://youtu.be/E12nBOlIXA8.
 
 👉Note:-
 
