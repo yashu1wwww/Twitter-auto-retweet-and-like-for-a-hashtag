@@ -1,7 +1,9 @@
 # Twitter-auto-retweet-and-like-for-a-hashtag
 Twitter unlimited auto-retweeting and liking for a hashtag using selenium with python
 
-## Change the username and password on the 22nd and 26th line & replace hashtag in 30th line
+## Change the username and password on the 22nd and 26th line & replace hashtag in 30th line.
+
+# if you want with multiple Accs Then Copy From 16th line to End And Paste Again And Change Username & Pass.
 
 Note: Use accounts that do not have two-factor authentication.
 
