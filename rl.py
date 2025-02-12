@@ -35,13 +35,13 @@ time.sleep(5)
 
 while True:
     try:
-        retweet_button = driver.find_element_by_xpath("//div[@data-testid='retweet']/div").click() #retweet button
+        retweet_button = driver.find_element_by_xpath("//button[@data-testid='retweet']").click() #retweet button
         time.sleep(1)
         
         retweet_button = driver.find_element_by_xpath("//div[@data-testid='retweetConfirm']/div").click() #retweet click #confirm
         time.sleep(2)
         
-        like_button = driver.find_element_by_xpath("//div[@data-testid='like']/div") #like button
+        like_button = driver.find_element_by_xpath("//button[@data-testid='like']") #like button
         like_button.click()
         
         time.sleep(2) 
